@@ -65,8 +65,8 @@ Uses penup() and pendown() to control writing without drawing unwanted lines.
 
 # My Project
 
-![Python Logo](Python-Turtle/assets/python.png) [JaiSriRam.py](JaiSriRam.py)  
-![Docs Logo](Python-Turtle/assets/Markdown.png) [README.md](README.md)
+![Python Logo](assets/python.png) [JaiSriRam.py](JaiSriRam.py)  
+![Docs Logo](assets/Markdown.png) [README.md](README.md)
 
 
 # 🙏 Jay Shree Ram!
