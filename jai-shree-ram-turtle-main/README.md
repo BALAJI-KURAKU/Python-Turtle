@@ -63,11 +63,6 @@ Writes a large || राम || in the center.
 
 Uses penup() and pendown() to control writing without drawing unwanted lines.
 
-# My Project
-
-![Python Logo](assets/python.png) [JaiSriRam.py](JaiSriRam.py)  
-![Docs Logo](assets/Markdown.png) [README.md](README.md)
-
 
 # 🙏 Jay Shree Ram!
 If you like this project, ⭐ star the repo and share the divine vibes. 🕉️
