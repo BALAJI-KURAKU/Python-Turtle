@@ -13,20 +13,26 @@ Custom Colors & Fonts – Uses orange pen color, thick pen size, and styled font
 
 # 📸 Output Preview
 The script generates something like this
+
 <img width="822" height="783" alt="image" src="https://github.com/user-attachments/assets/20b21f9a-2638-4bfe-85a7-1fd3aa6f24cb" />
 
 # 📂 File Structure
+
 📦 Jai-Shree-Ram-Turtle
+
  ┣ 📜 main.py           # The Python script
+
  ┗ 📜 README.md         # Project documentation
 
 # 🚀 How to Run
 # 1️⃣ Prerequisites
 Make sure Python is installed on your system (Python 3.6+ recommended).
+
 No external libraries are required — turtle comes built-in with Python.
 
 # 2️⃣ Clone the Repository
 git clone https://github.com/your-username/Jai-Shree-Ram-Turtle.git
+
 cd Jai-Shree-Ram-Turtle
 
 # 3️⃣ Run the Program
@@ -34,11 +40,15 @@ python main.py
 
 # 🛠 Code Overview
 title('JAI SHREE RAM')         # Window title
+
 bgcolor('black')               # Background color
+
 pensize(6)                     # Pen thickness
+
 pencolor("orange")             # Pen color
 
 Ram_naam = ["जय श्री राम"] * 50  # Repeating phrase
+
 # The script:
 
 Draws text in a circle by rotating the turtle by a fixed angle.
