@@ -2,6 +2,7 @@
 This Python program uses the turtle graphics module to create a beautiful circular pattern of the sacred phrase "जय श्री राम" along with a central "|| राम ||" text.
 It’s a simple yet visually appealing project for practicing Python Turtle Graphics. A fun and simple project for learning Turtle graphics. Ideal for beginners learning Python graphics.
 
+
 # ✨ Features
 Custom Title & Background – Window title is set to JAI SHREE RAM with a black background.
 
@@ -10,6 +11,7 @@ Circular Text Pattern – Repeats the Hindi phrase जय श्री राम
 Central Highlight – Displays a large || राम || in the center.
 
 Custom Colors & Fonts – Uses orange pen color, thick pen size, and styled fonts.
+
 
 # 📸 Output Preview
 The script generates something like this
@@ -23,6 +25,7 @@ The script generates something like this
  ┣ 📜 main.py             # The Python script
 
  ┗ 📜 README.md           # Project documentation
+
 
 # 🚀 How to Run
 # 1️⃣ Prerequisites
@@ -38,6 +41,7 @@ cd Jai-Shree-Ram-Turtle
 # 3️⃣ Run the Program
 python main.py
 
+
 # 🛠 Code Overview
 title('JAI SHREE RAM')            # Window title
 
@@ -48,6 +52,8 @@ pensize(6)                        # Pen thickness
 pencolor("orange")                # Pen color
 
 Ram_naam = ["जय श्री राम"] * 50     # Repeating phrase
+
+
 
 The script:
 
