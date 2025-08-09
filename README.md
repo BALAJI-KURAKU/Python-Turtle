@@ -10,9 +10,3 @@ Colorful patterns and animations
 Great for learning loops, functions, and coordinates
 
 Works on any system with Python installed
-
-# 📂 Project Files
-
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **JaiSriRam.py** – Main script file for drawing the pattern.
-
-![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg) **README.md** – Documentation file.
