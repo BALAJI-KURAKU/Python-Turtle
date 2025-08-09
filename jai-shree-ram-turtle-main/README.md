@@ -20,9 +20,9 @@ The script generates something like this
 
 📦 Jai-Shree-Ram-Turtle
 
- ┣ 📜 main.py           # The Python script
+ ┣ 📜 main.py             # The Python script
 
- ┗ 📜 README.md         # Project documentation
+ ┗ 📜 README.md           # Project documentation
 
 # 🚀 How to Run
 # 1️⃣ Prerequisites
@@ -31,7 +31,7 @@ Make sure Python is installed on your system (Python 3.6+ recommended).
 No external libraries are required — turtle comes built-in with Python.
 
 # 2️⃣ Clone the Repository
-git clone https://github.com/your-username/Jai-Shree-Ram-Turtle.git
+git clone https://github.com/BALAJI-KURAKU/Python-Turtle/jai-shree-ram-turtle-main.git
 
 cd Jai-Shree-Ram-Turtle
 
@@ -39,17 +39,17 @@ cd Jai-Shree-Ram-Turtle
 python main.py
 
 # 🛠 Code Overview
-title('JAI SHREE RAM')         # Window title
+title('JAI SHREE RAM')            # Window title
 
-bgcolor('black')               # Background color
+bgcolor('black')                  # Background color
 
-pensize(6)                     # Pen thickness
+pensize(6)                        # Pen thickness
 
-pencolor("orange")             # Pen color
+pencolor("orange")                # Pen color
 
-Ram_naam = ["जय श्री राम"] * 50  # Repeating phrase
+Ram_naam = ["जय श्री राम"] * 50     # Repeating phrase
 
-# The script:
+The script:
 
 Draws text in a circle by rotating the turtle by a fixed angle.
 
