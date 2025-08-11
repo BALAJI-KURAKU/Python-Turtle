@@ -17,6 +17,8 @@ Custom detailing and filled shapes for realistic effects.
 # Output Preview
 When you run the code, you’ll see a vibrant orange portrait drawn from scratch by the turtle, stroke by stroke.
 
+<img width="947" height="792" alt="image" src="https://github.com/user-attachments/assets/62cda804-8d27-4b22-a8d6-bffb58d62a06" />
+
 
 # Requirements
 Python 3.x
